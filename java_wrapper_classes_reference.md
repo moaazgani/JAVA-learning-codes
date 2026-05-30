@@ -7,7 +7,7 @@
 
 ## The Big Picture — Primitive vs Wrapper
 
-| Primitive | Wrapper Class | Size |
+| Primitive | Wrapper Class | SizE |
 |-----------|--------------|------|
 | `int` | `Integer` | 32-bit whole number |
 | `double` | `Double` | 64-bit decimal number |
