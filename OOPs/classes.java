@@ -3,7 +3,7 @@ class pen{
     String type;
 
     public void write(){
-        System.out.println("pen is ready for use");
+        System.out.println("Pen is ready");
     }
 
     public void printcolor(){
