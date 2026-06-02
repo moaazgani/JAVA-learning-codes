@@ -1,4 +1,4 @@
-# Java LinkedList — Complete Methods Reference
+# Java LinkedList — Complete Methods Reference.
 
 > LinkedList is a special class in Java that works as BOTH a List AND a Queue/Deque.
 > Import: `import java.util.LinkedList;`
